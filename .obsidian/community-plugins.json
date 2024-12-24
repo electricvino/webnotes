@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "webpage-html-export"
 ]
