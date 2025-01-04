@@ -32,7 +32,7 @@ From [[https://www.youtube.com/watch?v=n8sOmEe2SDg&t=496s|YT]]
   // filter with conditional logs
   jq 'select(.errors | length > 0 AND any(.[]; contains("wife")))' < filename
 
-The following commands are done inside [[Neovim]]
+The following commands are done inside [[neovim]]
   :(range selector)!jq   //whitespaces json line selected in visual mode. 
 
   :%!jq  //whitespaces the entire file

@@ -6,6 +6,6 @@ tags: []
 ---
 
 # Neovim
-- Uses LUA for scripting.
+- Uses [[LUA]] for scripting.
 - Uses LSP and has autocomplete, etc.
 
