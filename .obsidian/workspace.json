@@ -189,6 +189,8 @@
   },
   "active": "11146aea3183ff98",
   "lastOpenFiles": [
+    "index.md~",
+    "index.md",
     "yadm.md~",
     "nondev-tools",
     "1735962031-KWAJ.md",
@@ -219,7 +221,6 @@
     "Linux.md",
     "k8s.md",
     "GitOps.md",
-    "Docker.md",
     "Excalidraw",
     "Untitled.canvas"
   ]
