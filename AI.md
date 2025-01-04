@@ -1,8 +1,10 @@
 ---
 id: AI
-aliases: []
-tags: []
+aliases: 
+tags:
+  - AI
 ---
+
 
 ## AI
 

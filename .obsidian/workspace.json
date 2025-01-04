@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flux.md",
+                "file": "Dev Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flux"
+              "title": "Dev Tools"
             }
           }
         ]
@@ -187,18 +187,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "93572460677c31f1",
+  "active": "11146aea3183ff98",
   "lastOpenFiles": [
-    "Flux.md~",
-    "Flux.md",
+    "1735959925-THTQ.md",
+    "Dev Tools.md",
+    "Dev Tools.md~",
+    "JQ.md",
     "C-Sharp 12 Features.md",
+    "C-Sharp 12 Features.md~",
+    "1735959925-THTQ.md~",
+    "AI.md",
+    "Flux.md",
+    "Flux.md~",
     "Async Return Types.md",
     "ArgoCD.md",
     "Local First.md",
     "1735603049-RFUF.md",
     "Software Libraries.md",
     "sqlc.md",
-    "Dev Tools.md",
     "Virtual Env.md",
     "Record Types.md",
     "Spectre.console.md",
@@ -212,10 +218,7 @@
     "GitOps.md",
     "Docker.md",
     "DevOps.md",
-    "2024-12-24.md",
-    "Excalidraw/Drawing 2024-12-24 00.30.15.excalidraw.md",
     "Excalidraw",
-    "Books.md",
     "Untitled.canvas"
   ]
 }

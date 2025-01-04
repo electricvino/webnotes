@@ -1,9 +1,11 @@
 ---
-lang: c-sharp
+id: C-Sharp 12 Features
+aliases: []
 tags:
   - c-sharp
+lang: c-sharp
 ---
-https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12
+[[https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12|MSFT]]
 Primary Constructors: 
 Collection Expressions:  Spread Operator 
 
