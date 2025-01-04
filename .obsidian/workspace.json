@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c-sharp/libs.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "libs"
+              "title": "index"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "11146aea3183ff98",
   "lastOpenFiles": [
+    "c-sharp/1735968645-BELF.md",
+    "c-sharp/libs.md",
     "OS/Linux.md",
     "LUA.md",
     "OS",
@@ -223,7 +225,6 @@
     "javascript/D3.js.md",
     "javascript/CSS.md",
     "dev-tools/yadm.md",
-    "devops/k8s.md",
     "Untitled.canvas"
   ]
 }
