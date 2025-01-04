@@ -10,10 +10,10 @@ lang: c-sharp
 Primary Constructors: 
 Collection Expressions:  Spread Operator 
 
-	int[] row0 = [1, 2, 3];
+  int[] row0 = [1, 2, 3];
   int[] row1 = [4, 5, 6]; 
-	int[] row2 = [7, 8, 9]; 
-	int[] single = [.. row0, .. row1, .. row2];
+  int[] row2 = [7, 8, 9]; 
+  int[] single = [.. row0, .. row1, .. row2];
 
 ref readonly parmeters: like in keywork  
 default lambda parmaters:  

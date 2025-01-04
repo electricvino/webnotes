@@ -3,7 +3,7 @@ lang: c-sharp
 tags:
   - c-sharp
 ---
-https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-return-types
+[Learn MSFT](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-return-types)
 
 Async methods can have the following return types:
 
