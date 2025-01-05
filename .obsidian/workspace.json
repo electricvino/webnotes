@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "non-dev tools/Ghostty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Ghostty"
             }
           }
         ]
@@ -52,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:cli-tools",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,8 +188,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11146aea3183ff98",
+  "active": "2db51469aa5bf3c9",
   "lastOpenFiles": [
+    "non-dev tools/Ghostty.md~",
+    "index.md",
+    "non-dev tools/Ghostty.md",
     "c-sharp/1735968645-BELF.md",
     "c-sharp/libs.md",
     "OS/Linux.md",
@@ -207,7 +211,6 @@
     "dev-tools/neovim.md",
     "dev-tools/jq.md",
     "index.md~",
-    "index.md",
     "yadm.md~",
     "nondev-tools",
     "dev-tools/Dev Tools.md",
@@ -223,8 +226,6 @@
     "c-sharp/Record Types.md",
     "c-sharp/Spectre.console.md",
     "javascript/D3.js.md",
-    "javascript/CSS.md",
-    "dev-tools/yadm.md",
     "Untitled.canvas"
   ]
 }
