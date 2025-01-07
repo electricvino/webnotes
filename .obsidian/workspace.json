@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neovim.md",
+                "file": "dev tools/Dev Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neovim"
+              "title": "Dev Tools"
             }
           }
         ],
@@ -204,10 +204,15 @@
   },
   "active": "696f838f864d0601",
   "lastOpenFiles": [
-    "devops/homelab.md~",
-    "devops/homelab.md",
     "OS/Linux.md",
     "Neovim.md",
+    "2025-01-06.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "devops/tools.md~",
+    "devops/tools.md",
+    "devops/homelab.md~",
+    "devops/homelab.md",
     "non-dev tools/Ghostty.md",
     "non-dev tools/Ghostty.md~",
     "index.md",
@@ -227,8 +232,6 @@
     "c-sharp",
     "dev-tools/neovim.md",
     "dev-tools/jq.md",
-    "index.md~",
-    "yadm.md~",
     "dev-tools/Dev Tools.md",
     "JQ.md",
     "c-sharp/C-Sharp 12 Features.md",
@@ -237,9 +240,6 @@
     "devops/ArgoCD.md",
     "javascript/Local First.md",
     "1735603049-RFUF.md",
-    "dev-tools/sqlc.md",
-    "python/Virtual Env.md",
-    "c-sharp/Record Types.md",
-    "Untitled.canvas"
+    "dev-tools/sqlc.md"
   ]
 }
