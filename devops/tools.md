@@ -20,7 +20,7 @@ Also mentioned:
 
 ### CICD
 
-- [Devbox](jetify.com/devbox): 
+- [Devbox](https://jetify.com/devbox): 
 
 Also mentioned:
 - Dagger
@@ -31,7 +31,7 @@ Also mentioned:
 
 ### Containers
 
-- [Chainguard Images](chainguard.dev/chainguard-images)
+- [Chainguard Images](https://chainguard.dev/chainguard-images)
 
 Also mentioned:
 - [[Docker]]
