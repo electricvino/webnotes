@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "non-dev tools/Ghostty.md",
+                "file": "OS/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghostty"
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "696f838f864d0601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neovim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:cli-tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,14 +202,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2db51469aa5bf3c9",
+  "active": "696f838f864d0601",
   "lastOpenFiles": [
+    "OS/Linux.md",
+    "Neovim.md",
+    "non-dev tools/Ghostty.md",
     "non-dev tools/Ghostty.md~",
     "index.md",
-    "non-dev tools/Ghostty.md",
     "c-sharp/1735968645-BELF.md",
     "c-sharp/libs.md",
-    "OS/Linux.md",
     "LUA.md",
     "OS",
     "javascript/Charting Tools.md",
@@ -212,7 +227,6 @@
     "dev-tools/jq.md",
     "index.md~",
     "yadm.md~",
-    "nondev-tools",
     "dev-tools/Dev Tools.md",
     "JQ.md",
     "c-sharp/C-Sharp 12 Features.md",
