@@ -204,6 +204,8 @@
   },
   "active": "696f838f864d0601",
   "lastOpenFiles": [
+    "devops/homelab.md~",
+    "devops/homelab.md",
     "OS/Linux.md",
     "Neovim.md",
     "non-dev tools/Ghostty.md",
@@ -238,8 +240,6 @@
     "dev-tools/sqlc.md",
     "python/Virtual Env.md",
     "c-sharp/Record Types.md",
-    "c-sharp/Spectre.console.md",
-    "javascript/D3.js.md",
     "Untitled.canvas"
   ]
 }
