@@ -187,8 +187,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11146aea3183ff98",
+  "active": "93572460677c31f1",
   "lastOpenFiles": [
+    "AI/Fabric.md~",
+    "AI/Fabric.md",
     "jetify.com/devbox.md",
     "devops/tools.md",
     "jetify.com",
@@ -223,8 +225,6 @@
     "dev-tools/Dev Tools.md",
     "JQ.md",
     "c-sharp/C-Sharp 12 Features.md",
-    "devops/Flux.md",
-    "c-sharp/Async Return Types.md",
-    "devops/ArgoCD.md"
+    "devops/Flux.md"
   ]
 }
