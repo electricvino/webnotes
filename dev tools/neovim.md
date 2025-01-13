@@ -9,3 +9,9 @@ tags: []
 - Uses [[LUA]] for scripting.
 - Uses LSP and has autocomplete, etc.
 
+Using vim and forgot to sudo first to save file
+```
+:w !sudo tee %
+```
+
+
