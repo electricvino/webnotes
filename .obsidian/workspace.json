@@ -187,8 +187,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11146aea3183ff98",
+  "active": "93572460677c31f1",
   "lastOpenFiles": [
+    "devops/traefik.md",
+    "devops/1737416936-OFNZ.md",
+    "devops/k3s.md",
     "devops/tools.md",
     "AI/Fabric.md~",
     "AI/Fabric.md",
@@ -222,8 +225,6 @@
     "dev-tools/neovim.md",
     "dev-tools/jq.md",
     "dev-tools/Dev Tools.md",
-    "JQ.md",
-    "c-sharp/C-Sharp 12 Features.md",
-    "devops/Flux.md"
+    "JQ.md"
   ]
 }
