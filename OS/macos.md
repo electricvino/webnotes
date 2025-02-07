@@ -1,5 +1,5 @@
 ---
-id: linux
+id: macos
 aliases: []
 tags: []
 ---
